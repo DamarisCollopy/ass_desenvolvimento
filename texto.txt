@@ -1,0 +1,2 @@
+[('ass_desenvolvimento.py', '8.0K'), ('.idea', '4.0K'), ('digimon', '4.0K'), ('venv', '0B')]
+
